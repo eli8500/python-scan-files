@@ -1,5 +1,10 @@
 # tree_scan
 
+## Run script
+```
+ python3 script.py
+```
+
 ## Project setup
 ```
 npm install
